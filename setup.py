@@ -7,7 +7,7 @@ setup(name='googleplayapi',
       description='Google Play API',
       author='Jinjian Zhai',
       author_email='zhaijinjian@gmail.com',
-      url='cs.stanford.edu/~jameszjj',
+      url='https://github.com/sdlirjc/googleplay-api',
       packages=['googleplayapi'],
      )
 
