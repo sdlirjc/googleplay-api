@@ -8,6 +8,6 @@ setup(name='googleplayapi',
       author='Jinjian Zhai',
       author_email='zhaijinjian@gmail.com',
       url='cs.stanford.edu/~jameszjj',
-      packages=[''],
+      packages=['googleplayapi'],
      )
 
