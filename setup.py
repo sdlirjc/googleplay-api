@@ -2,7 +2,7 @@
 
 from distutils.core import setup
 
-setup(name='googleplay-api',
+setup(name='googleplayapi',
       version='1.1',
       description='Google Play API',
       author='Jinjian Zhai',
